@@ -1,0 +1,2 @@
+# Ignoramos archivo "log_prueba.txt" en la raíz - Si usas "#" se comentara
+/log_prueba.txt
